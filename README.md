@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### Reach out to Me:
+Linkedin
+---
+- 🔭 I’m currently working on Inventory manager
+- 🌱 I’m currently learning Fullstack Web applicaiton development
+
+Languages and Tools:
+
 <!--
 **murali0309/murali0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
